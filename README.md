@@ -9,6 +9,8 @@
 
 A viewer of the napari viewer.
 
+https://user-images.githubusercontent.com/21022743/233817006-67ab4165-0b9a-46aa-9731-5964448252de.mp4
+
 ----------------------------------
 
 This [napari] plugin was generated with [Cookiecutter] using [@napari]'s [cookiecutter-napari-plugin] template.
