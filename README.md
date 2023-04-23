@@ -1,4 +1,4 @@
-# napari-napari
+# [napari-napari](https://github.com/jookuma/napari-napari)
 
 [![License BSD-3](https://img.shields.io/pypi/l/napari-napari.svg?color=green)](https://github.com/jookuma/napari-napari/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-napari.svg?color=green)](https://pypi.org/project/napari-napari)
@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/jookuma/napari-napari/branch/main/graph/badge.svg)](https://codecov.io/gh/jookuma/napari-napari)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-napari)](https://napari-hub.org/plugins/napari-napari)
 
-A napari viewer of the napari viewer
+A viewer of the napari viewer.
 
 ----------------------------------
 
